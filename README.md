@@ -41,9 +41,9 @@
 	1. Подпункт
 		1. Подподпункт
 
-[Skillbox Media](https://skillbox.ru/media/) без подсказки
+[СушиПицца 74](https://sushipizza74.ru/) без подсказки
 
-[Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка") с подсказкой
+[СушиПицца 74](https://sushipizza74.ru/ "Всплывающая подсказка") с подсказкой
 
 Функция `print (x)` выводит содержимое переменной ```x```.
 
