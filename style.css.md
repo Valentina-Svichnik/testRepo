@@ -1,4 +1,5 @@
-```.dark .markdown-container h6 {
+```
+.dark .markdown-container h6 {
     color: #9D9D9D;
 }
 
